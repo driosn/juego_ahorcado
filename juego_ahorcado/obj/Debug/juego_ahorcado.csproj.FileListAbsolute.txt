@@ -1,0 +1,9 @@
+C:\Users\driosn\Documents\Emi\7mo\Programación Avanzada\1Parcial\Tareas\juego_ahorcado\juego_ahorcado\bin\Debug\juego_ahorcado.exe.config
+C:\Users\driosn\Documents\Emi\7mo\Programación Avanzada\1Parcial\Tareas\juego_ahorcado\juego_ahorcado\bin\Debug\juego_ahorcado.exe
+C:\Users\driosn\Documents\Emi\7mo\Programación Avanzada\1Parcial\Tareas\juego_ahorcado\juego_ahorcado\bin\Debug\juego_ahorcado.pdb
+C:\Users\driosn\Documents\Emi\7mo\Programación Avanzada\1Parcial\Tareas\juego_ahorcado\juego_ahorcado\obj\Debug\juego_ahorcado.csprojAssemblyReference.cache
+C:\Users\driosn\Documents\Emi\7mo\Programación Avanzada\1Parcial\Tareas\juego_ahorcado\juego_ahorcado\obj\Debug\juego_ahorcado.Form1.resources
+C:\Users\driosn\Documents\Emi\7mo\Programación Avanzada\1Parcial\Tareas\juego_ahorcado\juego_ahorcado\obj\Debug\juego_ahorcado.Properties.Resources.resources
+C:\Users\driosn\Documents\Emi\7mo\Programación Avanzada\1Parcial\Tareas\juego_ahorcado\juego_ahorcado\obj\Debug\juego_ahorcado.csproj.GenerateResource.cache
+C:\Users\driosn\Documents\Emi\7mo\Programación Avanzada\1Parcial\Tareas\juego_ahorcado\juego_ahorcado\obj\Debug\juego_ahorcado.exe
+C:\Users\driosn\Documents\Emi\7mo\Programación Avanzada\1Parcial\Tareas\juego_ahorcado\juego_ahorcado\obj\Debug\juego_ahorcado.pdb
